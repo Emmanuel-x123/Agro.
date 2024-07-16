@@ -30,7 +30,7 @@ body {
   text-align: center;
   padding: 0 20px;
   /* background: var(--light-grey); */
-  background-image: url(background.jpg);
+  background-image:url("/background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
